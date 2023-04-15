@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author Rushi
- *
- */
-module multithreading {
-}
